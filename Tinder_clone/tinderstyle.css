@@ -2,6 +2,7 @@ body {
     font-family: "Poppins", sans-serif;
     color: #1f1f1f;
   }
+
   #title {
     background-color: #ff4c68;
     color: #fff;
@@ -116,6 +117,7 @@ body {
     text-align: center;
     padding-bottom: 3%;
   }
+
   .press-img {
     width: 15%;
     margin: 20px 20px 50px;
@@ -126,6 +128,8 @@ body {
     padding: 100px;
     text-align: center;
   }
+
+
   .pricing-column {
     padding: 3% 2%;
   }
@@ -135,15 +139,18 @@ body {
     text-align: center;
     padding: 100px 15% 40px;
   }
+
   #footer {
     background-color: #fff;
     text-align: center;
     padding: 100px 15% 20%;
   }
+
   .spanSpace {
     padding-left: 25px;
     padding-right: 25px;
   }
+
   .social {
     padding-bottom: 5%;
   }
@@ -152,6 +159,7 @@ body {
     #title {
       text-align: center;
     }
+      
     .iphone-img {
       position: static;
       transform: rotate(0);
